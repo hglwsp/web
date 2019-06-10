@@ -1,0 +1,253 @@
+@CHARSET "UTF-8";
+BODY {
+	SCROLLBAR-ARROW-COLOR: #666666; SCROLLBAR-FACE-COLOR: #ffffff; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; SCROLLBAR-DARKSHADOW-COLOR: #f0f0f0; FONT-FAMILY: Tahoma; SCROLLBAR-HIGHLIGHT-COLOR: #666666; SCROLLBAR-SHADOW-COLOR: #666666; FONT-SIZE: 11px; SCROLLBAR-TRACK-COLOR: #f0f0f0; SCROLLBAR-3DLIGHT-COLOR: #ffffff
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+A.hotlink {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.hotlink:link {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.hotlink:visited {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.hotlink:hover {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.hotlink:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.hotlink1 {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.hotlink1:link {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.hotlink1:visited {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.hotlink1:hover {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.hotlink1:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.information-underline {
+	BORDER-BOTTOM: #4a744d 1px dotted; BORDER-LEFT: #4a744d 1px; LINE-HEIGHT: 22px; BORDER-TOP: #4a744d 1px; BORDER-RIGHT: #4a744d 1px; TEXT-DECORATION: none
+}
+A.information-underline:hover {
+	BORDER-BOTTOM: #4a744d 1px; BORDER-LEFT: #4a744d 1px; LINE-HEIGHT: 22px; COLOR: #8d6b27; BORDER-TOP: #4a744d 1px; BORDER-RIGHT: #4a744d 1px; TEXT-DECORATION: underline
+}
+A.information-underline:visited {
+	BORDER-BOTTOM: #4a744d 1px dotted; BORDER-LEFT: #4a744d 1px; LINE-HEIGHT: 22px; BORDER-TOP: #4a744d 1px; BORDER-RIGHT: #4a744d 1px; TEXT-DECORATION: none
+}
+A.information-underline:link {
+	BORDER-BOTTOM: #4a744d 1px dotted; BORDER-LEFT: #4a744d 1px; LINE-HEIGHT: 22px; COLOR: #000000; BORDER-TOP: #4a744d 1px; BORDER-RIGHT: #4a744d 1px; TEXT-DECORATION: none
+}
+FIELDSET {
+	BORDER-BOTTOM: #088474 1px solid; BORDER-LEFT: #088474 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: 100%; PADDING-RIGHT: 2px; BORDER-TOP: #088474 1px solid; BORDER-RIGHT: #088474 1px solid; PADDING-TOP: 2px
+}
+LEGEND {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+P {
+	LINE-HEIGHT: 150%; TEXT-INDENT: 2em
+}
+TD {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+TABLE {
+	LINE-HEIGHT: 150%
+}
+.redinfo {
+	LINE-HEIGHT: 180%; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #cc3333; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.littlecontent {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 10px
+}
+.itemtitle {
+	TEXT-INDENT: 3em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.content {
+	TEXT-JUSTIFY: distribute; TEXT-ALIGN: justify; LINE-HEIGHT: 180%; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #333333; FONT-SIZE: 13px
+}
+TABLE.list {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #333333; FONT-SIZE: 13px; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+INPUT.text {
+	BORDER-BOTTOM: #b6b9cb 1px solid; BORDER-LEFT: #b6b9cb 1px solid; BACKGROUND: #ffffff; FONT-SIZE: 12px; BORDER-TOP: #b6b9cb 1px solid; BORDER-RIGHT: #b6b9cb 1px solid
+}
+.textTitleIndentImg {
+	BACKGROUND-IMAGE: url(../images/2014kuanban02/tabletitle_bg.gif); LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.textTitleIndent {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.textTitleIndentImg01 {
+	BACKGROUND-IMAGE: url(../images/2014kuanban02/tabletitle_bg.gif); LINE-HEIGHT: 22px; TEXT-INDENT: 0.5em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.textTitleIndent01 {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 0.5em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.textIndent01 {
+	TEXT-INDENT: 0.5em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 12px
+}
+.textIndent {
+	TEXT-INDENT: 0.5em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #000000; FONT-SIZE: 12px
+}
+.main_title {
+	TEXT-INDENT: 3.2em; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 13px; TEXT-DECORATION: none
+}
+.news_text {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.text_copyright {
+	TEXT-ALIGN: center; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #4d4e4e; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.loginnews {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #238800; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.hotlink {
+	TEXT-ALIGN: center; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #175d29; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.text_header {
+	LINE-HEIGHT: 50px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.text_emphasis {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.text_subheader {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #1b5cac; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.illustration_left {
+	FLOAT: left
+}
+.illustration_right {
+	FLOAT: right
+}
+DIV.navtop {
+	TEXT-ALIGN: left; BORDER-LEFT: #999999 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #edfbef; TEXT-INDENT: 5px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FONT-SIZE: 0.8em; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid; PADDING-TOP: 3px
+}
+DIV.menu {
+	LINE-HEIGHT: 22px; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+DIV.menu A.mI {
+	LINE-HEIGHT: 22px; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+DIV.menu A.mI SPAN.mIText {
+	LINE-HEIGHT: 22px; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+DIV.menu A.mI SPAN.mIArrow {
+	LINE-HEIGHT: 22px; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+DIV.menu {
+	Z-INDEX: 101; BORDER-BOTTOM: #95b782 1px solid; POSITION: absolute; TEXT-ALIGN: left; BORDER-LEFT: #95b782 1px solid; BACKGROUND-COLOR: #edfbef; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; VISIBILITY: hidden; FONT-SIZE: 0.7em; BORDER-TOP: #95b782 1px solid; TOP: 0px; BORDER-RIGHT: #95b782 1px solid; LEFT: 0px
+}
+DIV.menu A.mI {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #edfbef; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #000000; CURSOR: pointer; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+DIV.menu A.mICurrent {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #edfbef; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #000000; CURSOR: pointer; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+DIV.menu A.mI:hover {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mIHighlight {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mICurrent {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mI:hover SPAN.mIText {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mI:hover SPAN.mIArrow {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mI SPAN.mIText {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mI SPAN.mIArrow {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+DIV.menu A.mI SPAN.mIArrow {
+	MARGIN-RIGHT: -0.75em
+}
+SPAN.indexzytz {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #fe0101; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+SPAN.indexnews {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #0066ff; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+A.indexnews {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #333333; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+A.indexnews:link {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #333333; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+A.indexnews:visited {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #333333; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+A.indexnews:hover {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+A.indexnews:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #ff6600; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.kxyjIndexLink:link {
+	COLOR: #cc6600; TEXT-DECORATION: none
+}
+.kxyjIndexLink:visited {
+	COLOR: #cc6600; TEXT-DECORATION: none
+}
+.kxyjIndexLink:hover {
+	COLOR: #299d00; TEXT-DECORATION: none
+}
+TABLE.list_change {
+	LINE-HEIGHT: 21px; BACKGROUND-COLOR: #dedede; PADDING-LEFT: 5px; PADDING-RIGHT: 2px; HEIGHT: 21px; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle
+}
+TR.even {
+	BACKGROUND-COLOR: #edf7fd; TEXT-INDENT: 0.5em; HEIGHT: 24px; FONT-SIZE: 12px
+}
+TR.odd {
+	BACKGROUND-COLOR: #ffffff; TEXT-INDENT: 0.5em; HEIGHT: 24px; FONT-SIZE: 12px
+}
+.text_gjjl_inTable {
+	COLOR: #003399
+}
+.text_xywh_Title {
+	COLOR: #ff6600; FONT-WEIGHT: bold
+}
+.zsjyIndexLink:link {
+	COLOR: #0053ba; TEXT-DECORATION: none
+}
+.zsjyIndexLink:visited {
+	COLOR: #0053ba; TEXT-DECORATION: none
+}
+.zsjyIndexLink:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.zsjyIndexMore:link {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.zsjyIndexMore:visited {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.zsjyIndexMore:hover {
+	COLOR: #299d00; TEXT-DECORATION: none
+}
+.text_dashiji_main {
+	TEXT-JUSTIFY: distribute; TEXT-ALIGN: justify; PADDING-BOTTOM: 6px; LINE-HEIGHT: 20px; PADDING-RIGHT: 6px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #333333; FONT-SIZE: 13px; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-TOP: 6px
+}
+.text_dashiji_emphasis {
+	TEXT-JUSTIFY: distribute; TEXT-ALIGN: right; PADDING-BOTTOM: 6px; LINE-HEIGHT: 20px; WIDTH: 35px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif", "SimSun"; COLOR: #333333; FONT-SIZE: 12px; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; PADDING-TOP: 6px
+}

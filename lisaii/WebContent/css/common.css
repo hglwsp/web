@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+.newnews {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.newnews:link {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.newnews:visited {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.newnews:hover {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.newnews:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.impnews {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.impnews:link {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.impnews:visited {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.impnews:hover {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #002c75; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.impnews:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif","SimSun"; COLOR: #003183; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
